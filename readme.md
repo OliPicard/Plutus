@@ -14,8 +14,11 @@ Plutus downloads graph images as well as CSV files.
 <h3>You will need..</h3>
 
 -Python 3 installed
+
 -the 3rd party module Requests (in cmd type pip install requests)
+
 -a server with [Kippo and Kippo Graph](https://youtu.be/OyBiIjrVXgk) installed.
+
 -a server with nginx/apache installed and Plutus, use cron to fire the plutus.py script at a time that suits you.
 
 
