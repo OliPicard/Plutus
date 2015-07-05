@@ -7,7 +7,6 @@ import os
 Plutus - a micro CSV downloader written in Python
 
 -- Updated with multiple download endpoints --
--- Updated with directory download --
 '''
 
 
